@@ -1,0 +1,8 @@
+# Clangd
+.cache/
+
+# CMake
+build/
+
+# vcpkg
+vcpkg_installed/
